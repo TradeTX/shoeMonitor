@@ -1,4 +1,4 @@
-# shoeMonitor Website 
+# shoeMonitor 
 scraper for sneaker/shoe release dates
 ### Quickstart 
 ``` 
