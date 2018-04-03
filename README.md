@@ -1,1 +1,2 @@
 # shoeMonitor
+# stopUsingJavaVariableNamingConventionsThisIsntTheAPComputerScienceExam
